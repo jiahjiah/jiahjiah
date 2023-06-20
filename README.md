@@ -23,7 +23,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## :woman_technologist: About Me :
+# :woman_technologist: About Me :
 
 i'm `jia`!
 - 🌱 I’m currently learning web development with React!
@@ -38,7 +38,7 @@ i'm `jia`!
 - 📫 How to reach me: ...
 -->
 
-## :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -54,7 +54,7 @@ i'm `jia`!
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
-## :fire: My Stats :
+# :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiahjiah&theme=material-palenight&border_radius=20&mode=weekly)](https://git.io/streak-stats)
 
 <!--
