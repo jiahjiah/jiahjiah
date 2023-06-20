@@ -49,6 +49,7 @@ i'm `jia`!
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiahjiah&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiahjiah&theme=nightowl&border_radius=20&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiahjiah&layout=compact&theme=nightowl&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 
