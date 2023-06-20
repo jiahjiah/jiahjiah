@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/9c/08/c0/9c08c09ff291829ee19eb04e08049b43.gif" width="700"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
     <a href="https://www.linkedin.com/in/yi-jia-huang/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -50,6 +50,7 @@ i'm `jia`!
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiahjiah&theme=nightowl&border_radius=20&mode=weekly)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiahjiah&layout=compact&theme=nightowl&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 
