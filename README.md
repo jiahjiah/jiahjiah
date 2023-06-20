@@ -7,6 +7,7 @@
     <a href="https://www.linkedin.com/in/yi-jia-huang/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
   </div>
   <img src="https://komarev.com/ghpvc/?username=jiahjiah&style=flat-square&color=blue" alt="" align="center"/>
 
