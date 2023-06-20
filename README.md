@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/9c/08/c0/9c08c09ff291829ee19eb04e08049b43.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/9c/08/c0/9c08c09ff291829ee19eb04e08049b43.gif" width="700"/>
 </div>
 
 <div id="badges">
