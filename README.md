@@ -46,3 +46,9 @@ i'm `jia`!
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="30" height="30"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiahjiah&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
