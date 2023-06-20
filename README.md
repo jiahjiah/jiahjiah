@@ -58,7 +58,7 @@ i'm `jia`!
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiahjiah&theme=nightowl&border_radius=20&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jiahjiah&theme=material-palenight&border_radius=20&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 
