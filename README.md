@@ -26,17 +26,6 @@
 ## :woman_technologist: About Me :
 
 i'm `jia`!
-- 🌱 I’m currently learning web development with React!
-- ⚡ I love scrapbooking and reading manhwas in my spare time :)
-- 😄 Pronouns: she/her
-
-<!--
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
 
 ## :hammer_and_wrench: Languages and Tools :
 
